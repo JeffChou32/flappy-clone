@@ -5,5 +5,4 @@ A simple Flappy Bird clone written in Java. This project demonstrates basic game
 ### Running the Game
 1. **Compile the project:**
 javac App.java FlappyBird.java
-
-Run the game: java App
+2. **Run the game:** java App
