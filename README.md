@@ -1,1 +1,1 @@
-# A flappy bird clone using pure Java
+A flappy bird clone using pure Java
